@@ -1,0 +1,250 @@
+vendor_id,vendor_name,category,created_date,bank_account,address,non_po_approved,status
+V0001,Apex Solutions Pte Ltd,Equipment,2019-06-04,474-130713-9,"237 Example Road 41, #11-62, Singapore 285771",False,Active
+V0002,Pinnacle Engineering Pte Ltd,Consulting,2021-09-19,129-534556-2,"260 Example Road 40, #18-13, Singapore 208360",False,Active
+V0003,Lumen Trading Pte Ltd,Consulting,2022-06-27,941-191920-3,"246 Example Road 39, #15-49, Singapore 392571",False,Active
+V0004,Pinnacle Media Pte Ltd,Office supplies,2020-09-03,482-956390-2,"167 Example Road 43, #10-12, Singapore 264682",False,Active
+V0005,Cedar Trading Pte Ltd,Facilities,2020-04-12,575-656632-7,"137 Example Road 49, #04-35, Singapore 486653",False,Active
+V0006,Pinnacle Trading Pte Ltd,Equipment,2020-05-05,587-581985-7,"208 Example Road 24, #16-20, Singapore 329548",False,Active
+V0007,Meridian Engineering Pte Ltd,Consulting,2020-06-29,010-088800-2,"226 Example Road 30, #10-14, Singapore 633467",False,Active
+V0008,Harbour Solutions Pte Ltd,Equipment,2022-10-28,048-784371-2,"240 Example Road 60, #03-41, Singapore 366390",False,Active
+V0009,Meridian Media Pte Ltd,Equipment,2018-07-01,474-376177-3,"370 Example Road 58, #07-01, Singapore 592720",False,Active
+V0010,Falcon Technologies Pte Ltd,Consulting,2021-05-30,171-489995-2,"335 Example Road 72, #19-52, Singapore 203364",False,Active
+V0011,Meridian Systems Pte Ltd,Consulting,2023-06-23,308-704449-1,"123 Example Road 17, #05-72, Singapore 786726",False,Active
+V0012,Bluewave Consulting Pte Ltd,Office supplies,2019-07-07,214-957400-2,"98 Example Road 75, #17-68, Singapore 565439",False,Active
+V0013,Nimbus Consulting Pte Ltd,Marketing,2020-08-22,776-073758-3,"372 Example Road 76, #07-39, Singapore 487883",False,Active
+V0014,Sterling Works Pte Ltd,Logistics,2023-07-14,549-351833-5,"200 Example Road 76, #11-41, Singapore 176635",False,Active
+V0015,Apex Services Pte Ltd,Equipment,2024-06-25,663-103312-0,"243 Example Road 83, #14-36, Singapore 406795",False,Active
+V0016,Harbour Supplies Pte Ltd,Facilities,2021-11-20,042-175679-8,"248 Example Road 79, #10-78, Singapore 655845",False,Active
+V0017,Meridian Works Pte Ltd,Equipment,2019-11-07,674-801578-4,"260 Example Road 50, #19-52, Singapore 404295",False,Active
+V0018,Zenith Supplies Pte Ltd,Office supplies,2024-05-24,287-976301-2,"17 Example Road 46, #15-77, Singapore 457480",False,Active
+V0019,Vertex Media Pte Ltd,Consulting,2023-08-02,392-407602-5,"216 Example Road 72, #06-74, Singapore 424465",False,Active
+V0020,Tidal Logistics Pte Ltd,IT services,2018-03-29,390-319677-6,"309 Example Road 1, #17-59, Singapore 639784",False,Active
+V0021,Jade Technologies Pte Ltd,IT services,2020-06-24,921-628409-5,"105 Example Road 61, #11-03, Singapore 654541",False,Active
+V0022,Jade Works Pte Ltd,Facilities,2023-10-26,622-485378-9,"120 Example Road 64, #12-36, Singapore 389765",False,Active
+V0023,Cedar Partners Pte Ltd,Equipment,2021-07-27,816-063474-8,"213 Example Road 89, #13-24, Singapore 665959",False,Active
+V0024,Jade Trading Pte Ltd,IT services,2018-11-21,519-877503-4,"366 Example Road 20, #10-28, Singapore 198087",False,Active
+V0025,Cedar Services Pte Ltd,IT services,2018-07-15,325-034968-3,"180 Example Road 38, #17-76, Singapore 802503",False,Active
+V0026,Sterling Trading Pte Ltd,Equipment,2021-07-06,238-325389-3,"212 Example Road 88, #15-18, Singapore 531243",False,Active
+V0027,Orchid Consulting Pte Ltd,Logistics,2018-03-01,822-311380-2,"25 Example Road 50, #05-63, Singapore 527061",False,Active
+V0028,Sterling Consulting Pte Ltd,Legal,2020-11-05,499-562869-2,"315 Example Road 42, #04-14, Singapore 510384",False,Active
+V0029,Kestrel Consulting Pte Ltd,Equipment,2020-01-27,759-410997-1,"118 Example Road 4, #01-20, Singapore 517662",False,Active
+V0030,Bluewave Media Pte Ltd,Logistics,2020-12-15,573-008163-7,"25 Example Road 80, #14-36, Singapore 251124",False,Active
+V0031,Zenith Partners Pte Ltd,Consulting,2021-03-09,241-021481-0,"45 Example Road 46, #06-39, Singapore 121350",False,Active
+V0032,Harbour Services Pte Ltd,Facilities,2020-10-20,748-522352-9,"192 Example Road 77, #13-27, Singapore 266624",False,Active
+V0033,Riverstone Partners Pte Ltd,Equipment,2019-08-09,404-487116-0,"128 Example Road 13, #01-73, Singapore 165569",False,Active
+V0034,Apex Media Pte Ltd,Legal,2019-03-23,011-764205-2,"236 Example Road 62, #17-40, Singapore 103461",False,Active
+V0035,Granite Engineering Pte Ltd,Facilities,2021-06-18,418-798222-9,"223 Example Road 41, #19-48, Singapore 763884",False,Active
+V0036,Zenith Solutions Pte Ltd,Marketing,2020-05-07,813-571622-5,"166 Example Road 57, #07-66, Singapore 157019",False,Active
+V0037,Unity Solutions Pte Ltd,Logistics,2022-10-12,307-167873-7,"330 Example Road 29, #03-71, Singapore 207996",False,Active
+V0038,Orchid Logistics Pte Ltd,Legal,2018-10-26,166-017519-2,"2 Example Road 83, #01-44, Singapore 824950",False,Active
+V0039,Jade Supplies Pte Ltd,Equipment,2021-09-20,084-516127-0,"179 Example Road 53, #03-24, Singapore 350755",False,Active
+V0040,Unity Logistics Pte Ltd,IT services,2018-02-13,512-888266-1,"221 Example Road 47, #08-60, Singapore 594662",False,Active
+V0041,Granite Technologies Pte Ltd,Equipment,2022-08-30,149-590073-5,"171 Example Road 37, #18-08, Singapore 663717",False,Active
+V0042,Vertex Consulting Pte Ltd,Office supplies,2020-07-25,641-392161-9,"343 Example Road 88, #18-20, Singapore 254867",False,Active
+V0043,Indigo Systems Pte Ltd,Marketing,2023-09-19,686-345076-7,"214 Example Road 70, #19-46, Singapore 424399",False,Active
+V0044,Cedar Technologies Pte Ltd,Marketing,2023-11-15,887-500247-4,"10 Example Road 19, #19-79, Singapore 375315",False,Active
+V0045,Tidal Works Pte Ltd,Equipment,2024-01-18,636-336553-4,"5 Example Road 54, #11-74, Singapore 468123",False,Active
+V0046,Lumen Solutions Pte Ltd,Logistics,2019-04-12,333-713136-0,"136 Example Road 3, #19-58, Singapore 277825",False,Active
+V0047,Evergreen Supplies Pte Ltd,Legal,2021-01-26,583-242914-5,"23 Example Road 42, #09-21, Singapore 193416",False,Active
+V0048,Bluewave Solutions Pte Ltd,IT services,2021-02-16,926-648122-1,"118 Example Road 28, #15-24, Singapore 739998",False,Active
+V0049,Sterling Engineering Pte Ltd,Equipment,2018-09-07,693-950419-3,"89 Example Road 50, #09-08, Singapore 696039",False,Active
+V0050,Unity Works Pte Ltd,Consulting,2022-01-02,551-024118-3,"234 Example Road 47, #14-59, Singapore 316103",False,Active
+V0051,Unity Services Pte Ltd,Consulting,2023-06-05,170-702694-1,"93 Example Road 80, #14-08, Singapore 380974",False,Active
+V0052,Granite Logistics Pte Ltd,Facilities,2023-07-01,164-041287-1,"340 Example Road 52, #17-60, Singapore 347704",False,Active
+V0053,Meridian Trading Pte Ltd,Office supplies,2022-09-04,322-109080-7,"132 Example Road 47, #06-39, Singapore 429639",False,Active
+V0054,Meridian Services Pte Ltd,Legal,2021-06-26,431-311904-8,"381 Example Road 14, #04-30, Singapore 504723",False,Active
+V0055,Zenith Logistics Pte Ltd,Logistics,2019-01-25,803-119039-6,"29 Example Road 42, #19-32, Singapore 485900",False,Active
+V0056,Meridian Consulting Pte Ltd,Legal,2019-03-21,918-873481-8,"368 Example Road 61, #07-45, Singapore 136577",False,Active
+V0057,Willow Services Pte Ltd,Legal,2018-05-16,660-767822-9,"212 Example Road 39, #06-51, Singapore 650388",False,Active
+V0058,Apex Trading Pte Ltd,Logistics,2024-06-14,280-347141-7,"253 Example Road 45, #08-13, Singapore 772951",False,Active
+V0059,Pinnacle Partners Pte Ltd,Marketing,2020-09-08,743-665046-9,"210 Example Road 31, #11-15, Singapore 166207",False,Active
+V0060,Quartz Media Pte Ltd,Facilities,2023-06-30,094-287729-4,"213 Example Road 67, #13-14, Singapore 320810",False,Active
+V0061,Indigo Media Pte Ltd,Logistics,2022-08-22,773-485175-5,"290 Example Road 81, #07-34, Singapore 238331",False,Active
+V0062,Pinnacle Services Pte Ltd,Marketing,2020-03-23,444-218036-1,"262 Example Road 66, #13-25, Singapore 114429",False,Active
+V0063,Vertex Partners Pte Ltd,Office supplies,2023-03-25,179-872961-1,"348 Example Road 25, #15-11, Singapore 304793",False,Active
+V0064,Granite Partners Pte Ltd,Equipment,2022-05-20,972-955779-5,"244 Example Road 67, #05-25, Singapore 556598",False,Active
+V0065,Bluewave Partners Pte Ltd,Equipment,2022-08-31,534-650547-8,"385 Example Road 55, #07-36, Singapore 228816",False,Active
+V0066,Willow Engineering Pte Ltd,Logistics,2023-07-19,385-744683-8,"98 Example Road 36, #18-76, Singapore 774427",False,Active
+V0067,Harbour Engineering Pte Ltd,Equipment,2024-01-30,079-727146-4,"280 Example Road 22, #12-51, Singapore 562670",False,Active
+V0068,Granite Systems Pte Ltd,Logistics,2021-10-21,422-682851-3,"3 Example Road 4, #07-36, Singapore 682182",False,Active
+V0069,Delta Engineering Pte Ltd,Office supplies,2019-07-11,676-113492-1,"378 Example Road 14, #01-34, Singapore 392789",False,Active
+V0070,Orchid Engineering Pte Ltd,Logistics,2024-01-22,960-915722-4,"354 Example Road 20, #13-36, Singapore 181646",False,Active
+V0071,Riverstone Technologies Pte Ltd,Office supplies,2021-09-27,145-525267-6,"1 Example Road 89, #01-79, Singapore 123195",False,Active
+V0072,Meridian Supplies Pte Ltd,Marketing,2018-08-14,719-332414-2,"21 Example Road 33, #13-61, Singapore 357936",False,Active
+V0073,Harbour Technologies Pte Ltd,Legal,2022-06-04,989-433277-8,"67 Example Road 44, #05-71, Singapore 295209",False,Active
+V0074,Delta Trading Pte Ltd,Equipment,2023-09-17,031-352050-2,"1 Example Road 8, #09-68, Singapore 665474",False,Active
+V0075,Cedar Solutions Pte Ltd,Marketing,2020-03-12,783-101082-8,"221 Example Road 48, #09-65, Singapore 131717",False,Active
+V0076,Cedar Systems Pte Ltd,Facilities,2020-07-24,752-372557-7,"186 Example Road 28, #07-33, Singapore 260007",False,Active
+V0077,Pinnacle Logistics Pte Ltd,Legal,2022-03-19,917-031110-8,"25 Example Road 36, #14-79, Singapore 723204",False,Active
+V0078,Delta Media Pte Ltd,Office supplies,2022-03-31,493-189998-4,"77 Example Road 55, #05-38, Singapore 578933",False,Active
+V0079,Willow Partners Pte Ltd,Marketing,2019-08-21,057-538374-0,"212 Example Road 5, #18-48, Singapore 371583",False,Active
+V0080,Lumen Consulting Pte Ltd,Logistics,2019-09-10,427-183513-7,"109 Example Road 12, #10-13, Singapore 329766",False,Active
+V0081,Kestrel Trading Pte Ltd,Marketing,2022-02-25,803-002587-6,"311 Example Road 16, #16-71, Singapore 169389",False,Active
+V0082,Lumen Technologies Pte Ltd,Legal,2021-02-03,940-324541-3,"272 Example Road 3, #05-71, Singapore 172384",False,Active
+V0083,Jade Logistics Pte Ltd,Consulting,2018-09-06,510-168133-3,"98 Example Road 5, #10-29, Singapore 349847",False,Active
+V0084,Granite Media Pte Ltd,Consulting,2021-12-19,288-096071-0,"47 Example Road 41, #12-33, Singapore 189037",False,Active
+V0085,Evergreen Engineering Pte Ltd,Legal,2024-04-02,186-519402-4,"25 Example Road 29, #09-75, Singapore 163053",False,Active
+V0086,Nimbus Engineering Pte Ltd,Equipment,2023-03-28,189-345429-9,"152 Example Road 72, #08-63, Singapore 526868",False,Active
+V0087,Lumen Supplies Pte Ltd,Logistics,2022-04-02,219-178055-3,"267 Example Road 37, #09-35, Singapore 684491",False,Active
+V0088,Willow Technologies Pte Ltd,Marketing,2024-01-22,373-249534-2,"263 Example Road 32, #11-30, Singapore 334122",False,Active
+V0089,Zenith Services Pte Ltd,Consulting,2018-06-17,503-157938-2,"312 Example Road 51, #15-60, Singapore 488675",False,Active
+V0090,Granite Trading Pte Ltd,Equipment,2023-05-16,915-169069-8,"157 Example Road 10, #18-73, Singapore 522653",False,Active
+V0091,Orchid Solutions Pte Ltd,Marketing,2024-01-29,950-037182-4,"82 Example Road 42, #09-01, Singapore 514501",False,Active
+V0092,Sterling Media Pte Ltd,Equipment,2020-02-24,893-850261-4,"310 Example Road 14, #10-17, Singapore 491635",False,Active
+V0093,Falcon Media Pte Ltd,Equipment,2018-07-01,788-195985-3,"47 Example Road 9, #08-65, Singapore 468900",False,Active
+V0094,Lumen Logistics Pte Ltd,Marketing,2021-08-31,976-949314-1,"48 Example Road 79, #16-18, Singapore 711532",False,Active
+V0095,Quartz Partners Pte Ltd,Consulting,2022-09-29,009-554465-1,"251 Example Road 60, #03-30, Singapore 677069",False,Active
+V0096,Orchid Supplies Pte Ltd,Consulting,2018-04-06,495-924151-4,"138 Example Road 17, #02-41, Singapore 791542",False,Active
+V0097,Evergreen Services Pte Ltd,Legal,2019-06-17,492-056988-6,"144 Example Road 39, #03-35, Singapore 366039",False,Active
+V0098,Apex Logistics Pte Ltd,Logistics,2021-06-22,949-602753-5,"361 Example Road 35, #01-25, Singapore 783187",False,Active
+V0099,Vertex Supplies Pte Ltd,IT services,2019-11-02,089-175098-5,"283 Example Road 36, #16-36, Singapore 822097",False,Active
+V0100,Bluewave Logistics Pte Ltd,Logistics,2024-04-16,371-521910-6,"347 Example Road 12, #14-43, Singapore 705913",False,Active
+V0101,Pinnacle Supplies Pte Ltd,Consulting,2023-12-30,353-598294-7,"305 Example Road 43, #09-37, Singapore 729660",False,Active
+V0102,Jade Partners Pte Ltd,Office supplies,2020-05-07,310-705774-1,"372 Example Road 75, #12-07, Singapore 125678",False,Active
+V0103,Unity Media Pte Ltd,Office supplies,2018-04-07,503-190111-5,"146 Example Road 82, #05-43, Singapore 581864",False,Active
+V0104,Pinnacle Technologies Pte Ltd,Facilities,2019-04-24,886-686913-1,"37 Example Road 43, #05-33, Singapore 419623",False,Active
+V0105,Orchid Media Pte Ltd,Consulting,2023-07-08,371-541631-6,"70 Example Road 60, #04-35, Singapore 689834",False,Active
+V0106,Riverstone Engineering Pte Ltd,Marketing,2019-02-05,971-815455-0,"203 Example Road 84, #09-22, Singapore 826213",False,Active
+V0107,Willow Systems Pte Ltd,IT services,2024-04-27,752-276605-9,"7 Example Road 42, #10-71, Singapore 306477",False,Active
+V0108,Lumen Works Pte Ltd,Legal,2018-05-24,876-779446-1,"342 Example Road 69, #12-24, Singapore 353801",False,Active
+V0109,Willow Media Pte Ltd,Logistics,2022-07-31,546-835074-4,"213 Example Road 20, #12-59, Singapore 355263",False,Active
+V0110,Delta Services Pte Ltd,Logistics,2019-04-17,617-287251-0,"382 Example Road 72, #03-23, Singapore 244296",False,Active
+V0111,Harbour Trading Pte Ltd,Equipment,2019-03-25,771-781737-4,"321 Example Road 14, #08-22, Singapore 281305",False,Active
+V0112,Delta Works Pte Ltd,Legal,2021-07-29,710-442757-1,"326 Example Road 19, #09-35, Singapore 699005",False,Active
+V0113,Indigo Services Pte Ltd,Office supplies,2019-03-07,243-372971-3,"74 Example Road 25, #07-11, Singapore 110536",False,Active
+V0114,Kestrel Works Pte Ltd,Legal,2019-12-20,392-570934-6,"257 Example Road 3, #17-50, Singapore 829144",False,Active
+V0115,Kestrel Engineering Pte Ltd,Equipment,2023-05-29,573-470705-4,"188 Example Road 44, #10-33, Singapore 429488",False,Active
+V0116,Nimbus Technologies Pte Ltd,Marketing,2021-08-02,891-721708-7,"397 Example Road 60, #17-10, Singapore 749625",False,Active
+V0117,Delta Partners Pte Ltd,Consulting,2018-11-01,728-669439-5,"246 Example Road 27, #05-14, Singapore 263197",False,Active
+V0118,Evergreen Works Pte Ltd,Marketing,2018-05-18,974-080661-7,"71 Example Road 21, #16-78, Singapore 293239",False,Active
+V0119,Sterling Supplies Pte Ltd,Marketing,2019-12-12,984-292395-2,"3 Example Road 39, #19-35, Singapore 610655",False,Active
+V0120,Unity Engineering Pte Ltd,Marketing,2019-05-21,055-398022-8,"208 Example Road 65, #16-61, Singapore 165000",False,Active
+V0121,Indigo Works Pte Ltd,Logistics,2019-01-06,211-154447-8,"211 Example Road 58, #15-55, Singapore 198011",False,Active
+V0122,Jade Consulting Pte Ltd,Office supplies,2020-08-14,902-970790-4,"187 Example Road 12, #04-14, Singapore 235323",False,Active
+V0123,Jade Systems Pte Ltd,Logistics,2019-07-19,172-958626-2,"48 Example Road 23, #06-11, Singapore 117234",False,Active
+V0124,Willow Trading Pte Ltd,Equipment,2020-08-11,248-632001-7,"256 Example Road 39, #15-13, Singapore 253981",False,Active
+V0125,Jade Media Pte Ltd,Legal,2021-12-27,280-250885-3,"40 Example Road 56, #11-61, Singapore 539849",False,Active
+V0126,Delta Supplies Pte Ltd,Office supplies,2023-01-27,917-940815-9,"298 Example Road 5, #16-13, Singapore 647026",False,Active
+V0127,Orchid Partners Pte Ltd,IT services,2020-10-01,923-565558-3,"333 Example Road 71, #19-73, Singapore 682670",False,Active
+V0128,Meridian Technologies Pte Ltd,Consulting,2019-03-24,749-078919-3,"141 Example Road 32, #13-53, Singapore 445970",False,Active
+V0129,Falcon Supplies Pte Ltd,Consulting,2021-11-17,680-257636-9,"192 Example Road 79, #15-24, Singapore 282137",False,Active
+V0130,Sterling Logistics Pte Ltd,Office supplies,2020-03-10,626-989042-9,"285 Example Road 29, #11-48, Singapore 461791",False,Active
+V0131,Kestrel Services Pte Ltd,Legal,2023-04-25,708-349803-7,"215 Example Road 23, #10-69, Singapore 263000",False,Active
+V0132,Riverstone Works Pte Ltd,Logistics,2023-10-02,255-477272-4,"11 Example Road 31, #19-35, Singapore 618311",False,Active
+V0133,Cedar Consulting Pte Ltd,Marketing,2020-05-31,951-414063-2,"7 Example Road 80, #16-65, Singapore 142439",False,Active
+V0134,Nimbus Supplies Pte Ltd,Consulting,2018-12-01,919-698381-2,"85 Example Road 12, #02-15, Singapore 187680",False,Active
+V0135,Jade Solutions Pte Ltd,Equipment,2018-05-26,000-158750-7,"15 Example Road 57, #08-70, Singapore 324498",False,Active
+V0136,Pinnacle Systems Pte Ltd,Equipment,2021-05-23,744-731401-4,"318 Example Road 70, #05-34, Singapore 212077",False,Active
+V0137,Tidal Engineering Pte Ltd,Logistics,2022-06-23,966-880872-3,"301 Example Road 20, #09-55, Singapore 574856",False,Active
+V0138,Harbour Media Pte Ltd,Office supplies,2021-09-11,235-264616-9,"54 Example Road 30, #14-49, Singapore 592567",False,Active
+V0139,Nimbus Works Pte Ltd,IT services,2021-12-16,740-440923-4,"333 Example Road 67, #15-19, Singapore 717166",False,Active
+V0140,Tidal Systems Pte Ltd,IT services,2021-07-18,794-540679-9,"197 Example Road 86, #11-51, Singapore 539457",False,Active
+V0141,Zenith Works Pte Ltd,IT services,2018-10-12,456-459345-4,"387 Example Road 86, #10-36, Singapore 529946",False,Active
+V0142,Evergreen Systems Pte Ltd,Office supplies,2019-05-30,050-643757-7,"13 Example Road 20, #11-78, Singapore 212626",False,Active
+V0143,Cedar Media Pte Ltd,Office supplies,2024-04-12,461-336342-7,"62 Example Road 21, #05-72, Singapore 789466",False,Active
+V0144,Sterling Systems Pte Ltd,Consulting,2023-07-09,982-723262-6,"233 Example Road 67, #19-01, Singapore 822902",False,Active
+V0145,Indigo Consulting Pte Ltd,Legal,2022-09-08,493-235682-3,"375 Example Road 40, #05-78, Singapore 427748",False,Active
+V0146,Zenith Media Pte Ltd,Facilities,2023-11-20,792-036505-1,"202 Example Road 52, #13-33, Singapore 398075",False,Active
+V0147,Quartz Works Pte Ltd,Logistics,2023-03-31,435-141589-4,"23 Example Road 21, #02-60, Singapore 818810",False,Active
+V0148,Nimbus Logistics Pte Ltd,Equipment,2018-02-20,311-268260-0,"22 Example Road 83, #12-64, Singapore 115858",False,Active
+V0149,Apex Engineering Pte Ltd,Office supplies,2018-09-01,562-464304-8,"251 Example Road 80, #03-01, Singapore 500155",False,Active
+V0150,Evergreen Consulting Pte Ltd,Logistics,2023-11-15,561-828617-1,"240 Example Road 86, #19-69, Singapore 460665",False,Active
+V0151,Nimbus Partners Pte Ltd,Consulting,2023-12-25,737-270134-7,"144 Example Road 2, #07-35, Singapore 496915",False,Active
+V0152,Riverstone Solutions Pte Ltd,Legal,2018-09-01,466-621082-5,"182 Example Road 15, #08-07, Singapore 228966",False,Active
+V0153,Delta Technologies Pte Ltd,Equipment,2021-09-07,426-950395-9,"204 Example Road 2, #17-61, Singapore 622130",False,Active
+V0154,Vertex Logistics Pte Ltd,Office supplies,2024-04-21,570-080696-4,"167 Example Road 57, #11-40, Singapore 212113",False,Active
+V0155,Pinnacle Works Pte Ltd,IT services,2022-08-09,771-854755-3,"371 Example Road 87, #03-58, Singapore 117034",False,Active
+V0156,Falcon Works Pte Ltd,Facilities,2021-01-05,957-029863-1,"340 Example Road 70, #05-47, Singapore 551621",False,Active
+V0157,Lumen Media Pte Ltd,Logistics,2018-10-22,066-951406-6,"343 Example Road 31, #06-06, Singapore 403061",False,Active
+V0158,Indigo Solutions Pte Ltd,Marketing,2023-06-29,538-048926-1,"47 Example Road 32, #17-55, Singapore 457163",False,Active
+V0159,Granite Supplies Pte Ltd,Office supplies,2019-10-05,161-052412-4,"276 Example Road 37, #11-42, Singapore 296267",False,Active
+V0160,Apex Works Pte Ltd,Logistics,2021-12-28,336-714042-3,"183 Example Road 29, #08-61, Singapore 691520",False,Active
+V0161,Unity Trading Pte Ltd,Facilities,2019-05-02,106-573847-1,"39 Example Road 70, #16-75, Singapore 336973",False,Active
+V0162,Bluewave Services Pte Ltd,Equipment,2020-11-21,551-730910-0,"181 Example Road 10, #17-41, Singapore 336447",False,Active
+V0163,Apex Systems Pte Ltd,Equipment,2018-12-25,240-120799-2,"315 Example Road 45, #01-08, Singapore 499883",False,Active
+V0164,Kestrel Solutions Pte Ltd,Marketing,2024-01-16,599-928578-1,"179 Example Road 12, #06-33, Singapore 724496",False,Active
+V0165,Falcon Logistics Pte Ltd,Logistics,2022-08-04,104-352764-1,"203 Example Road 61, #08-21, Singapore 469748",False,Active
+V0166,Indigo Partners Pte Ltd,Consulting,2022-08-28,463-180522-0,"360 Example Road 39, #07-59, Singapore 128454",False,Active
+V0167,Nimbus Systems Pte Ltd,IT services,2021-08-05,926-731289-9,"91 Example Road 54, #03-57, Singapore 403582",False,Active
+V0168,Zenith Systems Pte Ltd,Facilities,2020-03-21,115-857146-3,"6 Example Road 7, #18-48, Singapore 293138",False,Active
+V0169,Granite Solutions Pte Ltd,IT services,2024-02-20,723-280322-1,"365 Example Road 34, #08-31, Singapore 815557",False,Active
+V0170,Harbour Partners Pte Ltd,Facilities,2018-08-01,022-275939-0,"202 Example Road 72, #11-74, Singapore 329644",False,Active
+V0171,Apex Technologies Pte Ltd,Legal,2018-06-11,784-814177-8,"305 Example Road 28, #02-74, Singapore 459756",False,Active
+V0172,Sterling Solutions Pte Ltd,Logistics,2018-08-10,610-677786-5,"342 Example Road 31, #02-60, Singapore 301424",False,Active
+V0173,Lumen Partners Pte Ltd,Consulting,2024-04-22,840-812889-4,"303 Example Road 30, #15-40, Singapore 137930",False,Active
+V0174,Kestrel Systems Pte Ltd,Logistics,2019-09-03,501-736554-4,"329 Example Road 86, #05-53, Singapore 807932",False,Active
+V0175,Harbour Consulting Pte Ltd,Logistics,2020-01-21,199-135372-0,"135 Example Road 54, #04-65, Singapore 108941",False,Active
+V0176,Bluewave Trading Pte Ltd,Logistics,2021-04-30,206-313928-2,"75 Example Road 24, #07-10, Singapore 528972",False,Active
+V0177,Lumen Systems Pte Ltd,Consulting,2021-01-22,717-974382-4,"308 Example Road 83, #18-07, Singapore 755731",False,Active
+V0178,Willow Consulting Pte Ltd,Logistics,2024-02-26,333-647431-5,"359 Example Road 77, #05-38, Singapore 614848",False,Active
+V0179,Kestrel Supplies Pte Ltd,Equipment,2023-03-11,874-841839-3,"347 Example Road 48, #09-24, Singapore 710062",False,Active
+V0180,Bluewave Systems Pte Ltd,Facilities,2020-05-24,263-116236-3,"155 Example Road 22, #07-55, Singapore 489750",False,Active
+V0181,Zenith Technologies Pte Ltd,Consulting,2018-02-09,252-925199-7,"141 Example Road 6, #14-34, Singapore 822972",False,Active
+V0182,Quartz Trading Pte Ltd,Consulting,2024-05-29,400-450177-0,"203 Example Road 8, #14-66, Singapore 734633",False,Active
+V0183,Kestrel Technologies Pte Ltd,Legal,2021-11-02,580-005721-8,"300 Example Road 58, #10-34, Singapore 114985",False,Active
+V0184,Vertex Works Pte Ltd,IT services,2022-12-18,122-191756-2,"123 Example Road 54, #06-55, Singapore 128852",False,Active
+V0185,Bluewave Works Pte Ltd,IT services,2022-01-02,809-799372-4,"96 Example Road 44, #17-35, Singapore 167447",False,Active
+V0186,Kestrel Partners Pte Ltd,Marketing,2021-11-19,869-803301-7,"141 Example Road 14, #06-22, Singapore 227411",False,Active
+V0187,Willow Solutions Pte Ltd,Consulting,2018-03-05,702-239321-1,"54 Example Road 52, #08-40, Singapore 707466",False,Active
+V0188,Tidal Partners Pte Ltd,Consulting,2018-11-25,406-288355-6,"28 Example Road 29, #04-56, Singapore 150470",False,Active
+V0189,Zenith Engineering Pte Ltd,Legal,2022-08-06,003-080587-2,"188 Example Road 49, #15-34, Singapore 308076",False,Active
+V0190,Tidal Media Pte Ltd,Logistics,2018-05-03,408-169672-8,"168 Example Road 6, #07-28, Singapore 480653",False,Active
+V0191,Sterling Partners Pte Ltd,Logistics,2023-08-14,018-826514-6,"386 Example Road 76, #02-19, Singapore 418798",False,Active
+V0192,Apex Supplies Pte Ltd,Logistics,2018-04-23,719-203710-8,"237 Example Road 31, #15-67, Singapore 362218",False,Active
+V0193,Nimbus Solutions Pte Ltd,Facilities,2019-12-28,199-231513-5,"245 Example Road 54, #05-63, Singapore 604976",False,Active
+V0194,Vertex Services Pte Ltd,Consulting,2023-03-27,255-728359-5,"273 Example Road 81, #19-40, Singapore 404345",False,Active
+V0195,Evergreen Trading Pte Ltd,Consulting,2023-12-19,313-295108-9,"305 Example Road 12, #02-16, Singapore 648328",False,Active
+V0196,Cedar Supplies Pte Ltd,Equipment,2023-11-06,710-068627-0,"331 Example Road 80, #14-70, Singapore 527908",False,Active
+V0197,Willow Works Pte Ltd,Equipment,2019-03-28,051-644673-9,"199 Example Road 15, #01-16, Singapore 604497",False,Active
+V0198,Lumen Engineering Pte Ltd,IT services,2021-09-17,044-857536-6,"288 Example Road 17, #13-23, Singapore 676876",False,Active
+V0199,Tidal Consulting Pte Ltd,Facilities,2024-02-24,067-112859-8,"222 Example Road 61, #07-08, Singapore 391078",False,Active
+V0200,Falcon Solutions Pte Ltd,Equipment,2022-10-08,835-952374-8,"345 Example Road 4, #14-30, Singapore 479419",False,Active
+V0201,Granite Services Pte Ltd,IT services,2020-02-23,713-113993-5,"394 Example Road 21, #18-09, Singapore 264873",False,Active
+V0202,Jade Engineering Pte Ltd,Legal,2023-01-07,851-969914-1,"21 Example Road 87, #18-74, Singapore 745075",False,Active
+V0203,Zenith Trading Pte Ltd,Office supplies,2022-03-04,786-410667-9,"199 Example Road 74, #14-22, Singapore 716937",False,Active
+V0204,Cedar Works Pte Ltd,Logistics,2019-07-07,831-029592-3,"66 Example Road 36, #11-64, Singapore 368707",False,Active
+V0205,Bluewave Engineering Pte Ltd,Legal,2024-02-26,265-666565-0,"15 Example Road 86, #18-47, Singapore 227450",False,Active
+V0206,Meridian Partners Pte Ltd,IT services,2021-04-18,453-821583-0,"388 Example Road 40, #04-49, Singapore 333355",False,Active
+V0207,Nimbus Trading Pte Ltd,Consulting,2019-07-30,167-932569-0,"96 Example Road 24, #05-37, Singapore 737223",False,Active
+V0208,Quartz Supplies Pte Ltd,Office supplies,2022-11-07,566-334070-4,"262 Example Road 8, #19-30, Singapore 111536",False,Active
+V0209,Indigo Trading Pte Ltd,Facilities,2019-01-11,268-891193-0,"115 Example Road 75, #07-07, Singapore 627139",False,Active
+V0210,Apex Consulting Pte Ltd,Consulting,2020-11-22,321-240487-6,"357 Example Road 70, #13-69, Singapore 190819",False,Active
+V0211,Nimbus Media Pte Ltd,Consulting,2020-10-31,865-477401-1,"185 Example Road 55, #16-19, Singapore 674215",False,Active
+V0212,Pinnacle Solutions Pte Ltd,Logistics,2020-04-13,898-543702-1,"198 Example Road 27, #04-30, Singapore 728446",False,Active
+V0213,Vertex Engineering Pte Ltd,Equipment,2020-04-12,993-259951-4,"285 Example Road 50, #07-28, Singapore 143617",False,Active
+V0214,Granite Works Pte Ltd,Consulting,2019-07-27,054-885665-1,"172 Example Road 22, #09-49, Singapore 252772",False,Active
+V0215,Tidal Technologies Pte Ltd,Facilities,2024-06-10,282-288379-7,"2 Example Road 60, #04-67, Singapore 148939",False,Active
+V0216,Kestrel Logistics Pte Ltd,Consulting,2023-04-15,704-992345-5,"43 Example Road 68, #05-25, Singapore 713707",False,Active
+V0217,Quartz Services Pte Ltd,Consulting,2023-12-05,521-458386-0,"295 Example Road 52, #08-37, Singapore 320307",False,Active
+V0218,Orchid Trading Pte Ltd,Logistics,2020-11-26,344-352514-7,"327 Example Road 62, #15-06, Singapore 349205",False,Active
+V0219,Indigo Logistics Pte Ltd,Marketing,2022-10-27,124-519330-8,"94 Example Road 88, #10-70, Singapore 230758",False,Active
+V0220,Tidal Trading Pte Ltd,Equipment,2018-03-18,398-866503-7,"325 Example Road 50, #14-02, Singapore 441935",False,Active
+V0221,Harbour Logistics Pte Ltd,Office supplies,2020-04-15,568-902328-1,"12 Example Road 77, #19-18, Singapore 342984",False,Active
+V0222,Evergreen Partners Pte Ltd,Legal,2022-10-24,731-135880-7,"120 Example Road 18, #11-03, Singapore 343888",False,Active
+V0223,Orchid Systems Pte Ltd,Office supplies,2023-03-12,052-705903-8,"213 Example Road 16, #05-61, Singapore 728452",False,Active
+V0224,Evergreen Technologies Pte Ltd,Legal,2019-03-19,490-920758-1,"33 Example Road 51, #17-33, Singapore 682186",False,Active
+V0225,Falcon Engineering Pte Ltd,IT services,2019-01-01,276-366551-2,"211 Example Road 13, #10-10, Singapore 674679",False,Active
+V0226,Quartz Logistics Pte Ltd,Marketing,2022-06-18,559-435870-4,"296 Example Road 20, #19-64, Singapore 718015",False,Active
+V0227,Sterling Technologies Pte Ltd,Equipment,2020-03-10,046-045612-2,"256 Example Road 30, #11-58, Singapore 682011",False,Active
+V0228,Delta Solutions Pte Ltd,Office supplies,2018-04-17,826-404045-5,"113 Example Road 69, #12-21, Singapore 417260",False,Active
+V0229,Delta Logistics Pte Ltd,Consulting,2023-08-04,542-876369-6,"198 Example Road 25, #10-30, Singapore 546226",False,Active
+V0230,Sterling Services Pte Ltd,Facilities,2020-10-24,472-723582-5,"26 Example Road 7, #15-57, Singapore 374822",False,Active
+V0231,Orchid Services Pte Ltd,Consulting,2019-10-20,384-357294-6,"382 Example Road 39, #04-60, Singapore 104833",False,Active
+V0232,Kestrel Media Pte Ltd,Marketing,2020-09-10,523-514481-8,"164 Example Road 58, #11-24, Singapore 779418",False,Active
+V0233,Vertex Systems Pte Ltd,IT services,2018-02-09,429-182121-4,"132 Example Road 48, #11-01, Singapore 191156",False,Active
+V0234,Harbour Systems Pte Ltd,Logistics,2021-07-24,240-493171-1,"59 Example Road 79, #19-46, Singapore 550891",False,Active
+V0235,Pinnacle Consulting Pte Ltd,Equipment,2021-07-14,703-942865-4,"50 Example Road 35, #09-74, Singapore 324307",False,Active
+V0236,Delta Systems Pte Ltd,Consulting,2024-06-23,366-295049-3,"227 Example Road 55, #14-69, Singapore 208904",False,Active
+V0237,Vertex Solutions Pte Ltd,Marketing,2019-10-22,795-081166-0,"68 Example Road 53, #05-55, Singapore 400586",False,Active
+V0238,Quartz Technologies Pte Ltd,Marketing,2021-01-24,370-926019-8,"89 Example Road 12, #16-79, Singapore 223110",False,Active
+V0239,Riverstone Systems Pte Ltd,Consulting,2018-10-25,570-968910-7,"75 Example Road 14, #09-73, Singapore 680791",False,Active
+V0240,Meridian Logistics Pte Ltd,Marketing,2020-03-08,150-326917-6,"387 Example Road 82, #02-59, Singapore 532289",False,Active
+V0241,Citywide Power Utilities Pte Ltd,Utilities,2017-06-01,129-533821-5,"397 Example Road 17, #05-38, Singapore 245863",True,Active
+V0242,Metro Water Services Pte Ltd,Utilities,2017-06-01,621-299548-1,"261 Example Road 61, #14-18, Singapore 622774",True,Active
+V0243,Linkline Telecom Pte Ltd,Utilities,2017-06-01,681-682707-6,"77 Example Road 6, #15-20, Singapore 463134",True,Active
+V0244,Northgate Gas Pte Ltd,Utilities,2017-06-01,095-912667-9,"328 Example Road 13, #06-73, Singapore 500736",True,Active
+V0245,Skyfibre Broadband Pte Ltd,Utilities,2017-06-01,850-486128-9,"301 Example Road 9, #12-66, Singapore 567341",True,Active
+V0246,Civic Waste Management Pte Ltd,Utilities,2017-06-01,542-270037-6,"236 Example Road 48, #03-27, Singapore 158038",True,Active
+V0247,Kestrel Advisory Services,Consulting,2025-04-03,533-848932-9,"254 Example Road 26, #12-41, Singapore 761037",False,Active
+V0248,Granite Advisory Services,Consulting,2025-03-03,915-197844-6,"113 Example Road 5, #09-28, Singapore 268521",False,Active
+V0249,Harbour Advisory Services,Consulting,2025-02-03,360-349224-9,"9 Example Road 4, #09-42, Singapore 409633",False,Active

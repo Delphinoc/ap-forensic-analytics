@@ -1,0 +1,15 @@
+test_id,target_scheme,flagged,target_cases,true_positives,precision,recall,flagged_other_injected,flagged_not_injected
+T01_duplicate_exact,duplicate_exact,15,15,15,1.0,1.0,0,0
+T02_duplicate_near,duplicate_near,20,20,20,1.0,1.0,0,0
+T03_split_purchase,split_purchase,35,35,35,1.0,1.0,0,0
+T04_vendor_employee_match,ghost_vendor,21,21,21,1.0,1.0,0,0
+T05_sod_self_approval,sod_self_approval,15,15,15,1.0,1.0,0,0
+T06_approval_over_limit,approval_over_limit,12,12,12,1.0,1.0,0,0
+T07_po_after_invoice,po_after_invoice,15,15,15,1.0,1.0,0,0
+T08_weekend_posting,weekend_posting,45,20,20,0.444,1.0,0,25
+T09_round_amount,round_sum_billing,185,20,20,0.108,1.0,0,165
+T10_payment_account_mismatch,payment_account_mismatch,10,10,10,1.0,1.0,0,0
+T11_non_po_unapproved_vendor,ghost_vendor,21,21,21,1.0,1.0,0,0
+T12_new_vendor_high_activity,ghost_vendor,13,21,13,1.0,0.619,0,0
+T13_benford_vendor,fabricated_amounts,64,55,55,0.859,1.0,0,9
+T14_invoiced_over_po,"duplicate_exact, duplicate_near, round_sum_billing",55,55,55,1.0,1.0,0,0

@@ -1,0 +1,57 @@
+{
+  "population": {
+    "invoices": 3668,
+    "injected": 238,
+    "flagged": 437,
+    "true_positives": 238,
+    "precision": 0.545,
+    "recall": 1.0,
+    "base_rate": 0.065
+  },
+  "medium_high_weight_tests_only": {
+    "invoices": 3668,
+    "injected": 238,
+    "flagged": 227,
+    "true_positives": 218,
+    "precision": 0.96,
+    "recall": 0.916,
+    "base_rate": 0.065
+  },
+  "ranking": {
+    "random": {
+      "precision_at_50": 0.04,
+      "precision_at_100": 0.05,
+      "precision_at_200": 0.05
+    },
+    "isolation_forest_only": {
+      "precision_at_50": 0.66,
+      "precision_at_100": 0.43,
+      "precision_at_200": 0.275
+    },
+    "rules_then_model": {
+      "precision_at_50": 1.0,
+      "precision_at_100": 0.99,
+      "precision_at_200": 0.94
+    }
+  },
+  "isolation_forest_top200_recall_by_scheme": {
+    "approval_over_limit": 0.75,
+    "duplicate_exact": 1.0,
+    "duplicate_near": 0.4,
+    "fabricated_amounts": 0.0,
+    "ghost_vendor": 1.0,
+    "payment_account_mismatch": 0.0,
+    "po_after_invoice": 0.0,
+    "round_sum_billing": 0.0,
+    "sod_self_approval": 0.0,
+    "split_purchase": 0.029,
+    "weekend_posting": 0.05
+  },
+  "isolation_forest_top100_not_flagged_by_any_rule": 32,
+  "priority_counts": {
+    "Low": 3441,
+    "Medium": 114,
+    "High": 113
+  },
+  "high_priority_precision": 1.0
+}

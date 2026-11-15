@@ -1,0 +1,12 @@
+check_name,severity,failures,passed
+invoice_id unique,blocking,0,True
+invoice keys not null,blocking,0,True
+invoice amount positive,blocking,0,True
+invoice vendor exists in vendor master,blocking,0,True
+invoice approver exists in employee master,blocking,0,True
+invoice PO exists (when referenced),blocking,0,True
+one payment per invoice,blocking,0,True
+paid amount equals invoice amount,warning,0,True
+posting date not before invoice date,warning,0,True
+payment date not before posting date,warning,0,True
+invoices dated within the review period (2025),warning,0,True

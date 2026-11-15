@@ -1,0 +1,239 @@
+invoice_id,scheme,note
+INV003488,duplicate_exact,duplicate of INV002723
+INV003489,duplicate_exact,duplicate of INV000029
+INV003490,duplicate_exact,duplicate of INV001268
+INV003491,duplicate_exact,duplicate of INV002048
+INV003492,duplicate_exact,duplicate of INV000503
+INV003493,duplicate_exact,duplicate of INV002604
+INV003494,duplicate_exact,duplicate of INV000570
+INV003495,duplicate_exact,duplicate of INV002098
+INV003496,duplicate_exact,duplicate of INV003182
+INV003497,duplicate_exact,duplicate of INV003197
+INV003498,duplicate_exact,duplicate of INV002386
+INV003499,duplicate_exact,duplicate of INV001447
+INV003500,duplicate_exact,duplicate of INV001563
+INV003501,duplicate_exact,duplicate of INV002695
+INV003502,duplicate_exact,duplicate of INV001242
+INV003503,duplicate_near,re-keyed copy of INV000601
+INV003504,duplicate_near,re-keyed copy of INV002332
+INV003505,duplicate_near,re-keyed copy of INV001485
+INV003506,duplicate_near,re-keyed copy of INV002194
+INV003507,duplicate_near,re-keyed copy of INV001334
+INV003508,duplicate_near,re-keyed copy of INV003031
+INV003509,duplicate_near,re-keyed copy of INV001140
+INV003510,duplicate_near,re-keyed copy of INV002339
+INV003511,duplicate_near,re-keyed copy of INV001746
+INV003512,duplicate_near,re-keyed copy of INV001753
+INV003513,duplicate_near,re-keyed copy of INV002440
+INV003514,duplicate_near,re-keyed copy of INV002574
+INV003515,duplicate_near,re-keyed copy of INV003178
+INV003516,duplicate_near,re-keyed copy of INV001459
+INV003517,duplicate_near,re-keyed copy of INV002708
+INV003518,duplicate_near,re-keyed copy of INV000452
+INV003519,duplicate_near,re-keyed copy of INV001782
+INV003520,duplicate_near,re-keyed copy of INV001158
+INV003521,duplicate_near,re-keyed copy of INV000343
+INV003522,duplicate_near,re-keyed copy of INV002497
+INV003523,split_purchase,split group 1
+INV003524,split_purchase,split group 1
+INV003525,split_purchase,split group 1
+INV003526,split_purchase,split group 2
+INV003527,split_purchase,split group 2
+INV003528,split_purchase,split group 3
+INV003529,split_purchase,split group 3
+INV003530,split_purchase,split group 4
+INV003531,split_purchase,split group 4
+INV003532,split_purchase,split group 4
+INV003533,split_purchase,split group 4
+INV003534,split_purchase,split group 5
+INV003535,split_purchase,split group 5
+INV003536,split_purchase,split group 5
+INV003537,split_purchase,split group 6
+INV003538,split_purchase,split group 6
+INV003539,split_purchase,split group 6
+INV003540,split_purchase,split group 6
+INV003541,split_purchase,split group 7
+INV003542,split_purchase,split group 7
+INV003543,split_purchase,split group 8
+INV003544,split_purchase,split group 8
+INV003545,split_purchase,split group 8
+INV003546,split_purchase,split group 8
+INV003547,split_purchase,split group 9
+INV003548,split_purchase,split group 9
+INV003549,split_purchase,split group 10
+INV003550,split_purchase,split group 10
+INV003551,split_purchase,split group 11
+INV003552,split_purchase,split group 11
+INV003553,split_purchase,split group 11
+INV003554,split_purchase,split group 11
+INV003555,split_purchase,split group 12
+INV003556,split_purchase,split group 12
+INV003557,split_purchase,split group 12
+INV003558,ghost_vendor,bank account of E023
+INV003559,ghost_vendor,bank account of E023
+INV003560,ghost_vendor,bank account of E023
+INV003561,ghost_vendor,bank account of E023
+INV003562,ghost_vendor,bank account of E023
+INV003563,ghost_vendor,bank account of E023
+INV003564,ghost_vendor,bank account of E023
+INV003565,ghost_vendor,bank account of E032
+INV003566,ghost_vendor,bank account of E032
+INV003567,ghost_vendor,bank account of E032
+INV003568,ghost_vendor,bank account of E032
+INV003569,ghost_vendor,bank account of E032
+INV003570,ghost_vendor,bank account of E032
+INV003571,ghost_vendor,bank account of E032
+INV003572,ghost_vendor,bank account of E010
+INV003573,ghost_vendor,bank account of E010
+INV003574,ghost_vendor,bank account of E010
+INV003575,ghost_vendor,bank account of E010
+INV003576,ghost_vendor,bank account of E010
+INV003577,ghost_vendor,bank account of E010
+INV003578,ghost_vendor,bank account of E010
+INV003579,sod_self_approval,E026 requested and approved
+INV003580,sod_self_approval,E045 requested and approved
+INV003581,sod_self_approval,E018 requested and approved
+INV003582,sod_self_approval,E008 requested and approved
+INV003583,sod_self_approval,E054 requested and approved
+INV003584,sod_self_approval,E045 requested and approved
+INV003585,sod_self_approval,E035 requested and approved
+INV003586,sod_self_approval,E026 requested and approved
+INV003587,sod_self_approval,E018 requested and approved
+INV003588,sod_self_approval,E026 requested and approved
+INV003589,sod_self_approval,E044 requested and approved
+INV003590,sod_self_approval,E009 requested and approved
+INV003591,sod_self_approval,E054 requested and approved
+INV003592,sod_self_approval,E054 requested and approved
+INV003593,sod_self_approval,E027 requested and approved
+INV001178,approval_over_limit,"manager approved above SGD 10,000"
+INV000348,approval_over_limit,"manager approved above SGD 10,000"
+INV001018,approval_over_limit,"manager approved above SGD 10,000"
+INV001081,approval_over_limit,"manager approved above SGD 10,000"
+INV003050,approval_over_limit,"manager approved above SGD 10,000"
+INV001533,approval_over_limit,"manager approved above SGD 10,000"
+INV000040,approval_over_limit,"manager approved above SGD 10,000"
+INV001786,approval_over_limit,"manager approved above SGD 10,000"
+INV002934,approval_over_limit,"manager approved above SGD 10,000"
+INV000909,approval_over_limit,"manager approved above SGD 10,000"
+INV002542,approval_over_limit,"manager approved above SGD 10,000"
+INV002340,approval_over_limit,"manager approved above SGD 10,000"
+INV002277,po_after_invoice,PO raised after invoice date
+INV001460,po_after_invoice,PO raised after invoice date
+INV001474,po_after_invoice,PO raised after invoice date
+INV000911,po_after_invoice,PO raised after invoice date
+INV001482,po_after_invoice,PO raised after invoice date
+INV001039,po_after_invoice,PO raised after invoice date
+INV002590,po_after_invoice,PO raised after invoice date
+INV003015,po_after_invoice,PO raised after invoice date
+INV002643,po_after_invoice,PO raised after invoice date
+INV001869,po_after_invoice,PO raised after invoice date
+INV001694,po_after_invoice,PO raised after invoice date
+INV001231,po_after_invoice,PO raised after invoice date
+INV000105,po_after_invoice,PO raised after invoice date
+INV002376,po_after_invoice,PO raised after invoice date
+INV002576,po_after_invoice,PO raised after invoice date
+INV002641,weekend_posting,posted on a weekend
+INV002647,weekend_posting,posted on a weekend
+INV000259,weekend_posting,posted on a weekend
+INV001837,weekend_posting,posted on a weekend
+INV002123,weekend_posting,posted on a weekend
+INV003203,weekend_posting,posted on a weekend
+INV001203,weekend_posting,posted on a weekend
+INV003083,weekend_posting,posted on a weekend
+INV001157,weekend_posting,posted on a weekend
+INV000440,weekend_posting,posted on a weekend
+INV002410,weekend_posting,posted on a weekend
+INV000955,weekend_posting,posted on a weekend
+INV002191,weekend_posting,posted on a weekend
+INV000728,weekend_posting,posted on a weekend
+INV001424,weekend_posting,posted on a weekend
+INV000548,weekend_posting,posted on a weekend
+INV002016,weekend_posting,posted on a weekend
+INV000003,weekend_posting,posted on a weekend
+INV002095,weekend_posting,posted on a weekend
+INV000851,weekend_posting,posted on a weekend
+INV003594,round_sum_billing,extra round-sum invoice on PO02588
+INV003595,round_sum_billing,extra round-sum invoice on PO01055
+INV003596,round_sum_billing,extra round-sum invoice on PO00930
+INV003597,round_sum_billing,extra round-sum invoice on PO00418
+INV003598,round_sum_billing,extra round-sum invoice on PO00239
+INV003599,round_sum_billing,extra round-sum invoice on PO01716
+INV003600,round_sum_billing,extra round-sum invoice on PO01818
+INV003601,round_sum_billing,extra round-sum invoice on PO01928
+INV003602,round_sum_billing,extra round-sum invoice on PO01007
+INV003603,round_sum_billing,extra round-sum invoice on PO02349
+INV003604,round_sum_billing,extra round-sum invoice on PO01367
+INV003605,round_sum_billing,extra round-sum invoice on PO02380
+INV003606,round_sum_billing,extra round-sum invoice on PO00207
+INV003607,round_sum_billing,extra round-sum invoice on PO01402
+INV003608,round_sum_billing,extra round-sum invoice on PO00754
+INV003609,round_sum_billing,extra round-sum invoice on PO00511
+INV003610,round_sum_billing,extra round-sum invoice on PO01066
+INV003611,round_sum_billing,extra round-sum invoice on PO01915
+INV003612,round_sum_billing,extra round-sum invoice on PO00644
+INV003613,round_sum_billing,extra round-sum invoice on PO02334
+INV003614,fabricated_amounts,colluding vendor V0097
+INV003615,fabricated_amounts,colluding vendor V0097
+INV003616,fabricated_amounts,colluding vendor V0097
+INV003617,fabricated_amounts,colluding vendor V0097
+INV003618,fabricated_amounts,colluding vendor V0097
+INV003619,fabricated_amounts,colluding vendor V0097
+INV003620,fabricated_amounts,colluding vendor V0097
+INV003621,fabricated_amounts,colluding vendor V0097
+INV003622,fabricated_amounts,colluding vendor V0097
+INV003623,fabricated_amounts,colluding vendor V0097
+INV003624,fabricated_amounts,colluding vendor V0097
+INV003625,fabricated_amounts,colluding vendor V0097
+INV003626,fabricated_amounts,colluding vendor V0097
+INV003627,fabricated_amounts,colluding vendor V0097
+INV003628,fabricated_amounts,colluding vendor V0097
+INV003629,fabricated_amounts,colluding vendor V0097
+INV003630,fabricated_amounts,colluding vendor V0097
+INV003631,fabricated_amounts,colluding vendor V0097
+INV003632,fabricated_amounts,colluding vendor V0097
+INV003633,fabricated_amounts,colluding vendor V0097
+INV003634,fabricated_amounts,colluding vendor V0097
+INV003635,fabricated_amounts,colluding vendor V0097
+INV003636,fabricated_amounts,colluding vendor V0097
+INV003637,fabricated_amounts,colluding vendor V0097
+INV003638,fabricated_amounts,colluding vendor V0097
+INV003639,fabricated_amounts,colluding vendor V0097
+INV003640,fabricated_amounts,colluding vendor V0097
+INV003641,fabricated_amounts,colluding vendor V0097
+INV003642,fabricated_amounts,colluding vendor V0097
+INV003643,fabricated_amounts,colluding vendor V0097
+INV003644,fabricated_amounts,colluding vendor V0097
+INV003645,fabricated_amounts,colluding vendor V0097
+INV003646,fabricated_amounts,colluding vendor V0097
+INV003647,fabricated_amounts,colluding vendor V0097
+INV003648,fabricated_amounts,colluding vendor V0097
+INV003649,fabricated_amounts,colluding vendor V0097
+INV003650,fabricated_amounts,colluding vendor V0097
+INV003651,fabricated_amounts,colluding vendor V0097
+INV003652,fabricated_amounts,colluding vendor V0097
+INV003653,fabricated_amounts,colluding vendor V0097
+INV003654,fabricated_amounts,colluding vendor V0097
+INV003655,fabricated_amounts,colluding vendor V0097
+INV003656,fabricated_amounts,colluding vendor V0097
+INV003657,fabricated_amounts,colluding vendor V0097
+INV003658,fabricated_amounts,colluding vendor V0097
+INV003659,fabricated_amounts,colluding vendor V0097
+INV003660,fabricated_amounts,colluding vendor V0097
+INV003661,fabricated_amounts,colluding vendor V0097
+INV003662,fabricated_amounts,colluding vendor V0097
+INV003663,fabricated_amounts,colluding vendor V0097
+INV003664,fabricated_amounts,colluding vendor V0097
+INV003665,fabricated_amounts,colluding vendor V0097
+INV003666,fabricated_amounts,colluding vendor V0097
+INV003667,fabricated_amounts,colluding vendor V0097
+INV003668,fabricated_amounts,colluding vendor V0097
+INV002396,payment_account_mismatch,paid to account not on vendor master
+INV001666,payment_account_mismatch,paid to account not on vendor master
+INV000018,payment_account_mismatch,paid to account not on vendor master
+INV000393,payment_account_mismatch,paid to account not on vendor master
+INV002403,payment_account_mismatch,paid to account not on vendor master
+INV001959,payment_account_mismatch,paid to account not on vendor master
+INV003093,payment_account_mismatch,paid to account not on vendor master
+INV001801,payment_account_mismatch,paid to account not on vendor master
+INV002717,payment_account_mismatch,paid to account not on vendor master
+INV001092,payment_account_mismatch,paid to account not on vendor master

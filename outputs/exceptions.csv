@@ -1,0 +1,527 @@
+invoice_id,test_id,test_name,weight,detail
+INV003491,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002048
+INV003495,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002098
+INV003497,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV003197
+INV003501,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002695
+INV003500,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV001563
+INV003498,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002386
+INV003492,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV000503
+INV003488,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002723
+INV003494,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV000570
+INV003502,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV001242
+INV003489,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV000029
+INV003499,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV001447
+INV003493,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV002604
+INV003496,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV003182
+INV003490,T01_duplicate_exact,Exact duplicate invoice,3,same vendor invoice no. and amount as INV001268
+INV003503,T02_duplicate_near,Near-duplicate invoice,2,matches INV000601 (0013-03869 vs 001303869)
+INV003520,T02_duplicate_near,Near-duplicate invoice,2,matches INV001158 (0081-02893 vs 008102893)
+INV003507,T02_duplicate_near,Near-duplicate invoice,2,matches INV001334 (0003-06036 vs 000306036)
+INV003512,T02_duplicate_near,Near-duplicate invoice,2,matches INV001753 (0003-06082 vs 0003-06082-1)
+INV003519,T02_duplicate_near,Near-duplicate invoice,2,matches INV001782 (0016-03241 vs 001603241)
+INV003506,T02_duplicate_near,Near-duplicate invoice,2,matches INV002194 (0133-01417 vs 013301417)
+INV003504,T02_duplicate_near,Near-duplicate invoice,2,matches INV002332 (0215-07800 vs 0215-07800-1)
+INV003510,T02_duplicate_near,Near-duplicate invoice,2,matches INV002339 (0125-02146 vs 0125-02146-1)
+INV003513,T02_duplicate_near,Near-duplicate invoice,2,matches INV002440 (0017-01438 vs 001701438)
+INV003522,T02_duplicate_near,Near-duplicate invoice,2,matches INV002497 (0016-03256 vs 0016-03256-1)
+INV003514,T02_duplicate_near,Near-duplicate invoice,2,matches INV002574 (0147-01070 vs 014701070)
+INV003515,T02_duplicate_near,Near-duplicate invoice,2,matches INV003178 (0011-02483 vs 0011-02483A)
+INV003521,T02_duplicate_near,Near-duplicate invoice,2,matches INV000343 (0071-01151 vs 0071-01151A)
+INV003518,T02_duplicate_near,Near-duplicate invoice,2,matches INV000452 (0003-05938 vs 0003-05938A)
+INV003509,T02_duplicate_near,Near-duplicate invoice,2,matches INV001140 (0065-07539 vs 0065-07539-1)
+INV003516,T02_duplicate_near,Near-duplicate invoice,2,matches INV001459 (0006-01095 vs 0006-01095A)
+INV003505,T02_duplicate_near,Near-duplicate invoice,2,matches INV001485 (0107-06943 vs 0107-06943-1)
+INV003511,T02_duplicate_near,Near-duplicate invoice,2,matches INV001746 (0010-07545 vs 0010-07545A)
+INV003517,T02_duplicate_near,Near-duplicate invoice,2,matches INV002708 (0001-09392 vs 000109392)
+INV003508,T02_duplicate_near,Near-duplicate invoice,2,matches INV003031 (0006-01182 vs 0006-01182-1)
+INV003523,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 27432.21"
+INV003524,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 27432.21"
+INV003525,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 27432.21"
+INV003526,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18825.97"
+INV003527,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18825.97"
+INV003528,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18142.85"
+INV003529,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18142.85"
+INV003530,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 39128.63"
+INV003531,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 39128.63"
+INV003532,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 39128.63"
+INV003533,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 39128.63"
+INV003534,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28594.51"
+INV003535,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28594.51"
+INV003536,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28594.51"
+INV003537,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36185.96"
+INV003538,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36185.96"
+INV003539,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36185.96"
+INV003540,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36185.96"
+INV003541,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18415.74"
+INV003542,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18415.74"
+INV003543,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36115.05"
+INV003544,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36115.05"
+INV003545,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36115.05"
+INV003546,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 36115.05"
+INV003547,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 19631.21"
+INV003548,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 19631.21"
+INV003549,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18601.44"
+INV003550,T03_split_purchase,Split purchase below approval limit,2,"2 near-limit POs within 5 days, combined SGD 18601.44"
+INV003551,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 38031.27"
+INV003552,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 38031.27"
+INV003553,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 38031.27"
+INV003554,T03_split_purchase,Split purchase below approval limit,2,"4 near-limit POs within 5 days, combined SGD 38031.27"
+INV003555,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28202.68"
+INV003556,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28202.68"
+INV003557,T03_split_purchase,Split purchase below approval limit,2,"3 near-limit POs within 5 days, combined SGD 28202.68"
+INV003558,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003559,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003560,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003561,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003562,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003563,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003564,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0247 shares bank account with E023
+INV003565,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003566,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003567,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003568,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003569,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003570,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003571,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0248 shares bank account with E032
+INV003572,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003573,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003574,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003575,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003576,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003577,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003578,T04_vendor_employee_match,Vendor shares employee bank account/address,3,vendor V0249 shares bank account with E010
+INV003579,T05_sod_self_approval,Requester approved own purchase,3,approver E026 also raised PO02676
+INV003580,T05_sod_self_approval,Requester approved own purchase,3,approver E045 also raised PO02677
+INV003581,T05_sod_self_approval,Requester approved own purchase,3,approver E018 also raised PO02678
+INV003582,T05_sod_self_approval,Requester approved own purchase,3,approver E008 also raised PO02679
+INV003583,T05_sod_self_approval,Requester approved own purchase,3,approver E054 also raised PO02680
+INV003584,T05_sod_self_approval,Requester approved own purchase,3,approver E045 also raised PO02681
+INV003585,T05_sod_self_approval,Requester approved own purchase,3,approver E035 also raised PO02682
+INV003586,T05_sod_self_approval,Requester approved own purchase,3,approver E026 also raised PO02683
+INV003587,T05_sod_self_approval,Requester approved own purchase,3,approver E018 also raised PO02684
+INV003588,T05_sod_self_approval,Requester approved own purchase,3,approver E026 also raised PO02685
+INV003589,T05_sod_self_approval,Requester approved own purchase,3,approver E044 also raised PO02686
+INV003590,T05_sod_self_approval,Requester approved own purchase,3,approver E009 also raised PO02687
+INV003591,T05_sod_self_approval,Requester approved own purchase,3,approver E054 also raised PO02688
+INV003592,T05_sod_self_approval,Requester approved own purchase,3,approver E054 also raised PO02689
+INV003593,T05_sod_self_approval,Requester approved own purchase,3,approver E027 also raised PO02690
+INV000040,T06_approval_over_limit,Approved above delegated limit,3,Manager E009 (limit SGD 10000) approved SGD 13854.3
+INV000348,T06_approval_over_limit,Approved above delegated limit,3,Manager E045 (limit SGD 10000) approved SGD 22296.19
+INV000909,T06_approval_over_limit,Approved above delegated limit,3,Manager E017 (limit SGD 10000) approved SGD 27105.98
+INV001018,T06_approval_over_limit,Approved above delegated limit,3,Manager E054 (limit SGD 10000) approved SGD 15726.81
+INV001081,T06_approval_over_limit,Approved above delegated limit,3,Manager E054 (limit SGD 10000) approved SGD 19232.76
+INV001178,T06_approval_over_limit,Approved above delegated limit,3,Manager E053 (limit SGD 10000) approved SGD 13896.0
+INV001533,T06_approval_over_limit,Approved above delegated limit,3,Manager E026 (limit SGD 10000) approved SGD 15353.94
+INV001786,T06_approval_over_limit,Approved above delegated limit,3,Manager E035 (limit SGD 10000) approved SGD 12800.64
+INV002340,T06_approval_over_limit,Approved above delegated limit,3,Manager E035 (limit SGD 10000) approved SGD 11895.29
+INV002542,T06_approval_over_limit,Approved above delegated limit,3,Manager E044 (limit SGD 10000) approved SGD 10915.12
+INV002934,T06_approval_over_limit,Approved above delegated limit,3,Manager E008 (limit SGD 10000) approved SGD 12015.89
+INV003050,T06_approval_over_limit,Approved above delegated limit,3,Manager E008 (limit SGD 10000) approved SGD 15991.7
+INV000105,T07_po_after_invoice,PO raised after invoice,2,PO PO00084 raised 14 days after invoice
+INV000911,T07_po_after_invoice,PO raised after invoice,2,PO PO00742 raised 8 days after invoice
+INV001039,T07_po_after_invoice,PO raised after invoice,2,PO PO00849 raised 10 days after invoice
+INV001231,T07_po_after_invoice,PO raised after invoice,2,PO PO01006 raised 14 days after invoice
+INV001460,T07_po_after_invoice,PO raised after invoice,2,PO PO01190 raised 6 days after invoice
+INV001474,T07_po_after_invoice,PO raised after invoice,2,PO PO01203 raised 18 days after invoice
+INV001482,T07_po_after_invoice,PO raised after invoice,2,PO PO01210 raised 14 days after invoice
+INV001694,T07_po_after_invoice,PO raised after invoice,2,PO PO01383 raised 13 days after invoice
+INV001869,T07_po_after_invoice,PO raised after invoice,2,PO PO01524 raised 13 days after invoice
+INV002277,T07_po_after_invoice,PO raised after invoice,2,PO PO01848 raised 19 days after invoice
+INV002376,T07_po_after_invoice,PO raised after invoice,2,PO PO01930 raised 2 days after invoice
+INV002576,T07_po_after_invoice,PO raised after invoice,2,PO PO02085 raised 9 days after invoice
+INV002590,T07_po_after_invoice,PO raised after invoice,2,PO PO02095 raised 8 days after invoice
+INV002643,T07_po_after_invoice,PO raised after invoice,2,PO PO02135 raised 10 days after invoice
+INV003015,T07_po_after_invoice,PO raised after invoice,2,PO PO02431 raised 7 days after invoice
+INV000003,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-08-16
+INV000259,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-07-05
+INV000440,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-09-07
+INV000548,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-03-01
+INV000728,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-03-23
+INV000851,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-09-28
+INV000955,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-06-01
+INV001157,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-04-27
+INV001203,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-06-29
+INV001424,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-09-14
+INV001837,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-03-30
+INV002016,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-02-02
+INV002095,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-08-23
+INV002123,T08_weekend_posting,Posted on a weekend,1,posted on Sunday 2025-09-07
+INV002191,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-02-15
+INV002410,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-02-01
+INV002641,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-02-08
+INV002647,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-06-28
+INV003083,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-02-22
+INV003203,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-03-08
+INV003463,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003464,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003465,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003466,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003467,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003468,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003469,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003470,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003471,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003472,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003473,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003474,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003475,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003476,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003477,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003478,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003479,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003480,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003481,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003482,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003483,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003484,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003485,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003486,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003487,T08_weekend_posting,Posted on a weekend,1,posted on Saturday 2025-12-27
+INV003232,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003233,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003234,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003235,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003236,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003237,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003238,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003239,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003240,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003241,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003242,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003243,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003244,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003245,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003246,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003247,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003248,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003249,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003250,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003251,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003252,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003253,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003254,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003255,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003256,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003257,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003258,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003259,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003260,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003261,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003262,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003263,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003264,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003265,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003266,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003267,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003268,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003269,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003270,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003271,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003272,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003273,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003274,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003275,T09_round_amount,Round-sum amount,1,round amount SGD 8000
+INV003276,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003277,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003278,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003279,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003280,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003281,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003282,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003283,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003284,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003285,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003286,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003287,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003288,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003289,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003290,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003291,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003292,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003293,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003294,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003295,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003296,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003297,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003298,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003299,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003300,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003301,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003302,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003303,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003304,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003305,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003306,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003307,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003308,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003309,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003310,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003311,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003312,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003313,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003314,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003315,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003316,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003317,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003318,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003319,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003320,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003321,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003322,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003323,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003324,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003325,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003326,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003327,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003328,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003329,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003330,T09_round_amount,Round-sum amount,1,round amount SGD 3000
+INV003331,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003332,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003333,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003334,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003335,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003336,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003337,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003338,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003339,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003340,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003341,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003342,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003343,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003344,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003345,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003346,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003347,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003348,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003349,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003350,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003351,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003352,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003353,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003354,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003355,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003356,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003357,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003358,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003359,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003360,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003361,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003362,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003363,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003364,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003365,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003366,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003367,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003368,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003369,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003370,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003371,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003372,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003373,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003374,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003375,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003376,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003377,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003378,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003379,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003380,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003381,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003382,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003383,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003384,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003385,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003386,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003387,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003388,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003389,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003390,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003391,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003392,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003393,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003394,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003395,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003396,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003594,T09_round_amount,Round-sum amount,1,round amount SGD 9000
+INV003595,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003596,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003597,T09_round_amount,Round-sum amount,1,round amount SGD 9000
+INV003598,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003599,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003600,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003601,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003602,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003603,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003604,T09_round_amount,Round-sum amount,1,round amount SGD 2000
+INV003605,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003606,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003607,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003608,T09_round_amount,Round-sum amount,1,round amount SGD 6000
+INV003609,T09_round_amount,Round-sum amount,1,round amount SGD 7000
+INV003610,T09_round_amount,Round-sum amount,1,round amount SGD 5000
+INV003611,T09_round_amount,Round-sum amount,1,round amount SGD 9000
+INV003612,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV003613,T09_round_amount,Round-sum amount,1,round amount SGD 4000
+INV000018,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 810-703881-4, master has 079-727146-4"
+INV000393,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 733-570013-2, master has 636-336553-4"
+INV001092,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 322-640571-2, master has 048-784371-2"
+INV001666,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 198-039480-4, master has 308-704449-1"
+INV001801,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 289-180888-3, master has 431-311904-8"
+INV001959,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 107-693040-1, master has 171-489995-2"
+INV002396,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 646-004171-4, master has 575-656632-7"
+INV002403,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 436-383286-0, master has 474-130713-9"
+INV002717,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 950-893253-6, master has 546-835074-4"
+INV003093,T10_payment_account_mismatch,Paid to account not on vendor master,3,"paid to 738-568437-8, master has 748-522352-9"
+INV003558,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003559,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003560,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003561,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003562,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003563,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003564,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0247 not on non-PO list
+INV003565,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003566,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003567,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003568,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003569,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003570,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003571,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0248 not on non-PO list
+INV003572,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003573,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003574,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003575,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003576,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003577,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003578,T11_non_po_unapproved_vendor,Non-PO invoice from non-approved vendor,2,no PO; vendor V0249 not on non-PO list
+INV003559,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-04-03, invoiced after 21 days"
+INV003561,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-04-03, invoiced after 53 days"
+INV003563,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-04-03, invoiced after 39 days"
+INV003564,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-04-03, invoiced after 55 days"
+INV003566,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-03-03, invoiced after 70 days"
+INV003568,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-03-03, invoiced after 25 days"
+INV003570,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-03-03, invoiced after 43 days"
+INV003572,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 71 days"
+INV003573,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 14 days"
+INV003574,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 77 days"
+INV003575,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 50 days"
+INV003577,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 30 days"
+INV003578,T12_new_vendor_high_activity,New vendor billing within 90 days,1,"vendor created 2025-02-03, invoiced after 15 days"
+INV003513,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01980 invoiced SGD 7031.5 vs PO SGD 3515.75
+INV003517,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02188 invoiced SGD 13786.2 vs PO SGD 6893.1
+INV003605,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02380 invoiced SGD 12474.05 vs PO SGD 5474.05
+INV003522,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02023 invoiced SGD 8444.06 vs PO SGD 4222.03
+INV003489,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00024 invoiced SGD 6662.2 vs PO SGD 3331.1
+INV003595,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01055 invoiced SGD 11150.66 vs PO SGD 4150.66
+INV003603,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02349 invoiced SGD 9546.32 vs PO SGD 5546.32
+INV003604,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01367 invoiced SGD 8249.42 vs PO SGD 6249.42
+INV003501,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02176 invoiced SGD 7777.5 vs PO SGD 3888.75
+INV003606,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00207 invoiced SGD 15718.77 vs PO SGD 8718.77
+INV003597,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00418 invoiced SGD 26720.51 vs PO SGD 17720.51
+INV003502,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01015 invoiced SGD 20723.38 vs PO SGD 10361.69
+INV003516,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01189 invoiced SGD 12141.96 vs PO SGD 6070.98
+INV003594,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02588 invoiced SGD 12258.98 vs PO SGD 3258.98
+INV003503,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00488 invoiced SGD 7188.04 vs PO SGD 3594.02
+INV003520,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00948 invoiced SGD 17961.34 vs PO SGD 8980.67
+INV003600,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01818 invoiced SGD 4094.98 vs PO SGD 2094.98
+INV003611,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01915 invoiced SGD 12745.76 vs PO SGD 3745.76
+INV003601,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01928 invoiced SGD 8657.24 vs PO SGD 2657.24
+INV003498,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01940 invoiced SGD 52122.06 vs PO SGD 26061.03
+INV003514,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02083 invoiced SGD 2686.9 vs PO SGD 1343.45
+INV003609,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00511 invoiced SGD 11198.39 vs PO SGD 4198.39
+INV003510,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01897 invoiced SGD 4830.12 vs PO SGD 2415.06
+INV003598,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00239 invoiced SGD 10016.88 vs PO SGD 5016.88
+INV003494,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00461 invoiced SGD 3012.8 vs PO SGD 1506.4
+INV003505,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01212 invoiced SGD 2603.64 vs PO SGD 1301.82
+INV003511,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01427 invoiced SGD 17795.26 vs PO SGD 8897.63
+INV003491,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01670 invoiced SGD 86912.92 vs PO SGD 43456.46
+INV003493,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02105 invoiced SGD 46813.36 vs PO SGD 23406.68
+INV003518,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00370 invoiced SGD 1403.42 vs PO SGD 701.71
+INV003608,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00754 invoiced SGD 11499.77 vs PO SGD 5499.77
+INV003610,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01066 invoiced SGD 10152.19 vs PO SGD 5152.19
+INV003488,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02200 invoiced SGD 16489.36 vs PO SGD 8244.68
+INV003490,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01035 invoiced SGD 41309.32 vs PO SGD 20654.66
+INV003512,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01433 invoiced SGD 491.24 vs PO SGD 245.62
+INV003492,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00408 invoiced SGD 1623.18 vs PO SGD 811.59
+INV003509,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00934 invoiced SGD 1396.02 vs PO SGD 698.01
+INV003507,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01086 invoiced SGD 5526.78 vs PO SGD 2763.39
+INV003500,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01275 invoiced SGD 2766.92 vs PO SGD 1383.46
+INV003613,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02334 invoiced SGD 7389.81 vs PO SGD 3389.81
+INV003596,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00930 invoiced SGD 10924.12 vs PO SGD 8924.12
+INV003602,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01007 invoiced SGD 11752.46 vs PO SGD 4752.46
+INV003599,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01716 invoiced SGD 7508.9 vs PO SGD 2508.9
+INV003504,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01892 invoiced SGD 2971.92 vs PO SGD 1485.96
+INV003521,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00282 invoiced SGD 8943.56 vs PO SGD 4471.78
+INV003508,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02443 invoiced SGD 597.62 vs PO SGD 298.81
+INV003612,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO00644 invoiced SGD 9047.74 vs PO SGD 5047.74
+INV003607,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01402 invoiced SGD 10233.22 vs PO SGD 3233.22
+INV003499,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01179 invoiced SGD 18682.74 vs PO SGD 9341.37
+INV003519,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01453 invoiced SGD 3703.84 vs PO SGD 1851.92
+INV003495,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01706 invoiced SGD 9394.84 vs PO SGD 4697.42
+INV003506,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO01785 invoiced SGD 11729.36 vs PO SGD 5864.68
+INV003515,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02559 invoiced SGD 6130.54 vs PO SGD 3065.27
+INV003496,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02562 invoiced SGD 4522.84 vs PO SGD 2261.42
+INV003497,T14_invoiced_over_po,Cumulative invoices exceed PO value,2,PO PO02572 invoiced SGD 9629.32 vs PO SGD 4814.66
+INV001337,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV001599,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV001687,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV001930,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV002203,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV002777,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV002778,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV002801,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV002982,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003614,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003615,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003616,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003617,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003618,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003619,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003620,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003621,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003622,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003623,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003624,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003625,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003626,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003627,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003628,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003629,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003630,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003631,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003632,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003633,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003634,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003635,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003636,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003637,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003638,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003639,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003640,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003641,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003642,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003643,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003644,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003645,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003646,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003647,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003648,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003649,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003650,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003651,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003652,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003653,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003654,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003655,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003656,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003657,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003658,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003659,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003660,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003661,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003662,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003663,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003664,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003665,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003666,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003667,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
+INV003668,T13_benford_vendor,Vendor amounts fail Benford first-digit test,2,vendor V0097 first digits fail Benford (chi2 109.96)
